@@ -39,12 +39,5 @@ This project supports the following microexpression datasets:
 Dataset folder structure:
 
 Reference to the original paper : 
-@article{wang2024htnet,
-  title={HTNet for Micro-Expression Recognition},
-  author={Wang, Zhifeng and Zhang, Kaihao and Luo, Wenhan and Sankaranarayana, Ramesh},
-  journal={Neurocomputing},
-  volume={602},
-  pages={128196},
-  year={2024},
-  publisher={Elsevier}
-}
+
+[1] Wang, Z., Zhang, K., Luo, W., & Sankaranarayana, R. (2024). HTNet for Micro-Expression Recognition. *Neurocomputing*, 602, 128196.
